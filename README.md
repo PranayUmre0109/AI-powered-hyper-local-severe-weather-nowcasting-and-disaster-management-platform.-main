@@ -24,7 +24,9 @@ MEGH-AI bridges this gap by fusing multi-source telemetry data:
 
 ---
 
-## Deployment link: https://ai-powered-hyper-local-se-git-eb6ceb-jaadarsh143-3515s-projects.vercel.app/
+## 🌐 Live Deployment
+
+**Production Website:** [MEGH-AI – Live Demo](https://ai-powered-hyper-local-severe-weath-rho.vercel.app/)
 ---
 
 ## 💻 Step-by-Step Installation & Setup Guide (VS Code)
