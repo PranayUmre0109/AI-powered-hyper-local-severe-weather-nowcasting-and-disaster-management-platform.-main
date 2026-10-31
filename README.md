@@ -1,5 +1,9 @@
 # 🌩️ MEGH-AI: Severe Weather Nowcasting & Early Warning System
 
+### 🌐 Live Demo
+
+🚀 **Visit MEGH-AI:** [Open Live Website](https://ai-powered-hyper-local-severe-weath-rho.vercel.app/)
+
 **MEGH-AI** is an AI-driven hyper-local early warning system for severe weather nowcasting (thunderstorms, cloudbursts, and flash floods) delivering 2–6 hour lead times across India. 
 
 ---
